@@ -1,6 +1,6 @@
 FROM python:3.7.3-stretch
 
-ARG repo=https://github.com/LUMII-Syslab/DL4media-captioning/releases/download/model/
+ARG repo=https://github.com/LUMII-Syslab/DL4media-captioning/releases/download/model
 ARG target_dir=/app/model
 
 RUN python -m pip install --upgrade pip
