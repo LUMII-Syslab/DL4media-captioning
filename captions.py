@@ -8,7 +8,7 @@ units = 512
 max_length = 20
 attention_features_shape = 64
 
-data_dir = "data"
+data_dir = "/data"
 images_dir = os.path.join(data_dir, "images")
 
 # model_dir = os.path.join("model")
