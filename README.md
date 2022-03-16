@@ -2,7 +2,7 @@
 
 ## Image Captioning
 
-Returns latvian captions to any provided images. The release conatins a pre-trained model ready to caption.
+Returns latvian captions to any provided images. The release cantains a pre-trained model ready to caption.
 
 **To run** download everything from the latest release, then start the docker with "docker compose up --build". The server accepts images and then returns captions for the passed image in latvian.
 
